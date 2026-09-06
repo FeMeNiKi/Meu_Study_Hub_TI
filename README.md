@@ -23,7 +23,3 @@ Meu_Study_Hub_TI/
 2. Guarde cada material da disciplina no módulo correspondente, separando entregas de anotações e resumos.
 3. Registre projetos concluídos e certificados em `03_Projetos_e_Certificados`.
 4. Mantenha nomes de arquivos claros e padronizados, por exemplo: `2026-09-atividade-nome.pdf`.
-
-## Observação sobre a entrega do Bootcamp I
-
-O enunciado também pede um Google Docs público, um vídeo horizontal de até cinco minutos no YouTube e um PDF único com os links ativos. Os modelos para organizar esse conteúdo estão versionados aqui; a publicação e os links devem ser preenchidos pela proprietária do repositório quando estiverem disponíveis.
