@@ -1,4 +1,4 @@
-# [Nome da outra disciplina]
+# Testes_Qualidade_Software
 
 Renomeie esta pasta quando houver outra disciplina em andamento. Crie, dentro dela, as mesmas duas categorias usadas no Bootcamp I:
 

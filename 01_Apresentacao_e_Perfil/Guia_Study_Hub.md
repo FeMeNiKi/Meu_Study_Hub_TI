@@ -4,40 +4,39 @@
 
 ### Identificação
 
-- **Nome:** [Seu nome completo]
-- **Curso:** [Nome do curso]
-- **Polo/Turma:** [Seu polo ou turma]
+- **Nome:** Fernanda Mey Niva Kikuchi
+- **Curso:** Ciências da Computação
+- **Polo/Turma:** Taguatinga, Turma Única
 
 ### Biografia acadêmica
 
-[Produza aqui um texto autoral de 5 a 10 linhas descrevendo sua trajetória e motivação para atuar em TI.]
+Sou estudante de Ciências da Computação e meu interesse pela tecnologia começou no ensino médio com as aulas de robótica e programação com Arduino. Desde então, passei a me interessar ainda mais pelo funcionamento dos jogos, pela forma como são criados e pelas possibilidades da programação. Escolhi a área de TI já que ela une criatividade, lógica e inovação. Tenho maior interesse em Inteligência Artificial, Ciência de Dados e desenvolvimento FrontEnd. Pretendo me especializar em Inteligência Artificial e buscar oportunidades profissionais internacionais na área de tecnologia.
 
 ### Visual e contato
 
-- **Foto/avatar profissional:** [inserir, se desejar]
-- **E-mail:** [seu e-mail]
-- **LinkedIn:** [link público]
+- **Foto/avatar profissional:** 
+- **E-mail:** fernandamey.kikuchi@gmail.com
+- **LinkedIn:** [fernanda-kikuchi](https://www.linkedin.com/in/fernanda-kikuchi/)
 
 ## 2. Interesses e carreira
 
 ### Áreas de interesse
 
-- [Dados]
-- [Desenvolvimento]
-- [Inteligência Artificial]
-- [Redes]
+- Inteligência Artificial
+- Ciência de Dados
+- Desenvolvimento FrontEnd
+
 
 ### Propósito do Study Hub
 
-[Explique de forma autoral como este Study Hub apoiará seu aprendizado, tornará sua evolução visível e ajudará a criar oportunidades de carreira.]
+O Study Hub é um repositório onde poderei registrar, de forma organizada, os meus estudos, projetos e certificados. Isso me ajudará a conseguir revisar e observar meu crescimento. Além disso, o Study Hub serve como um portfólio profissional de fácil navegação para recrutadores, o que irá maximizar as minhas oportunidades de trabalho
 
 ## 3. Matriz do Study Hub
 
 | Semestre / Módulo | Nome da disciplina | Tipo de material | Justificativa |
 | --- | --- | --- | --- |
 | 1º Módulo | Bootcamp I | Planejamento da arquitetura do Study Hub e entregas do projeto | Define a base de organização profissional para todo o curso. |
-| 1º Módulo | [Outra disciplina] | [Resumos e exercícios] | [Breve explicação] |
-| 2º Módulo | [Disciplina futura] | [Projetos práticos] | [Breve explicação] |
+| 1º Módulo | Testes_Qualidade_Software | Exercícios e slides para revisão de estudo | Ajuda no desenvolvimento de testes para a qualidade dos produtos |
 
 ## 4. Arquitetura do repositório
 
@@ -50,21 +49,14 @@ Meu_Study_Hub_TI/
 │   ├── Bootcamp_I/
 │   │   ├── Atividades_e_Entregas/
 │   │   └── Anotacoes_e_Resumos/
-│   └── [Nome_da_Outra_Disciplina]/
+│   └── Testes_Qualidade_Software/
 └── 03_Projetos_e_Certificados/
 ```
 
-## 5. Pitch de apresentação
-
-- **Link do vídeo horizontal no YouTube:** [cole aqui o link público]
-- **Duração:** até 5 minutos.
-- **Requisitos:** câmera e áudio ligados; explique como a estrutura do Study Hub organiza seu aprendizado e apoia seus objetivos profissionais.
-
-## 6. Checklist de submissão
+## 5. Checklist de submissão
 
 - [ ] Converter este guia para Google Docs com os estilos Título 1 e Título 2.
 - [ ] Completar o perfil, a biografia e os interesses com texto autoral.
 - [ ] Manter a matriz com a primeira linha do Bootcamp I.
 - [ ] Publicar o Google Docs como leitor para qualquer pessoa com o link e testá-lo em janela anônima.
-- [ ] Publicar o vídeo horizontal no YouTube e inserir o link ativo acima.
 - [ ] Criar um PDF único com os links públicos do Google Docs, GitHub e YouTube.
