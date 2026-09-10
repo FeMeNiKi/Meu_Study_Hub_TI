@@ -13,7 +13,7 @@ Meu_Study_Hub_TI/
 │   ├── Bootcamp_I/
 │   │   ├── Atividades_e_Entregas/
 │   │   └── Anotacoes_e_Resumos/
-│   └── [Nome_da_Outra_Disciplina]/
+│   └── Testes_Qualidade_Software/
 └── 03_Projetos_e_Certificados/
 ```
 
