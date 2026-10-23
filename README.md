@@ -36,3 +36,10 @@ Meu_Study_Hub_TI/
 2. Guarde cada material da disciplina no módulo correspondente, separando entregas de anotações e resumos.
 3. Registre projetos concluídos e certificados em `03_Projetos_e_Certificados`.
 4. Mantenha nomes de arquivos claros e padronizados, por exemplo: `2026-09-atividade-nome.pdf`.
+
+## Documentação de implantação
+
+- [Plano de implantação do PortfolioHUB](docs/plano-de-implantacao.md)
+- [Uso da IA Gemini no projeto](docs/uso-do-gemini.md)
+- [Política de segurança](SECURITY.md)
+- [Guia de contribuição](CONTRIBUTING.md)

@@ -1,3 +1,21 @@
 # Materiais locais de trabalho e entregas exportadas
 /work/
 /outputs/
+
+# Credenciais e variáveis locais
+.env
+.env.*
+!.env.example
+
+# Dependências e ambientes locais
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Configurações de editor e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
